@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BrandingOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LoginDisclaimer>THIS SERVER DOES NO SUPPLY ANY MOVIES OR WHATSOEVER CONTENT. WE ONLY SUPPLY MUSIC OWNED BY US. FOR THE FULL CONTENT, PLEASE GO TO US AND CONNECT TO THIRDY EMBY AT 192.168.68.102:8096</LoginDisclaimer>
+  <CustomCss />
+  <SplashscreenEnabled>true</SplashscreenEnabled>
+  <SplashscreenLocation>/config/data/splashscreen-upload.jpg</SplashscreenLocation>
+</BrandingOptions>
